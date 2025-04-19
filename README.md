@@ -7,6 +7,5 @@ Install Package
 
 
 ```
-pip install neutraltemplate
+pip install -i https://test.pypi.org/simple/ neutraltemplate
 ```
-
